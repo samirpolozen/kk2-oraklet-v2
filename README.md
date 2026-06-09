@@ -25,7 +25,7 @@ Varje steg använder Pydantic modeller för typad indata och utdata.
 1. Klona projektet:
 
 ```bash
-git clone <repository-url>
+git clone git@github.com:samirpolozen/kk2-oraklet-v2.git
 cd kk2-oraklet-v2
 ```
 
